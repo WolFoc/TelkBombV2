@@ -36,6 +36,6 @@ function telkbombv2($no, $jum, $wait = 0)
     }
     return ($result);
 }
-$execute = telkbombv2('6282xxxxx', '2');
+$execute = telkbombv2('6289515205363', '15','1');
 print $execute;
 ?>
